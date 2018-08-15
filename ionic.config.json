@@ -1,0 +1,7 @@
+{
+  "name": "BitcoinTracker",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
